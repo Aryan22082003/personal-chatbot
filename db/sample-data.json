@@ -1,0 +1,47 @@
+[
+  {
+      "id": 1,
+      "info": "Aryan Dalvi",
+      "description": "B.E. IT Student with extensive experience as a Web Developer, specializing in frontend technologies like Next.js, TypeScript, React.js, and Tailwind CSS. Intern at Talents2Germany, with a background in Full Stack Development and achievements in multiple hackathons."
+  },
+  {
+      "id": 2,
+      "info": "Education",
+      "description": "Bachelor of Engineering in Information Technology, Saraswati College Of Engineering, AVG CGPA - 9.266. SSC - 81.60%, HSC - 89%. Completed internships at Ural Federal University and other institutes."
+  },
+  {
+      "id": 3,
+      "info": "Profession",
+      "description": "Frontend Web Developer (Current), Full Stack Developer, Wordpress Developer, Experienced in 3D Modeling with Three.js, Dynamic Routing with Next.js."
+  },
+  {
+      "id": 4,
+      "info": "Projects",
+      "description": "Developed 'Vision2Furniture' using Next.js and Three.js, a furniture recommendation system. Created dynamic candidate pages and an admin page at Talents2Germany. Built 'Moonquake Map' using Three.js, and worked on various other projects like 'Satellites Around Earth', 'Cryptocurrency App', and a personal portfolio."
+  },
+  {
+      "id": 5,
+      "info": "Achievements",
+      "description": "Selected for URFU Summer Internship in Russia. Won multiple hackathons, including the NASA Space Apps Challenge 2023. Achieved top ranking in Semester 4 and Semester 5."
+  },
+  {
+      "id": 6,
+      "info": "Certifications",
+      "description": "Python Programming, Amazon Web Services"
+  },
+  {
+      "id": 7,
+      "info": "Skills",
+      "description": "Proficient in Next.js, TypeScript, React.js, Tailwind CSS, Three.js, JavaScript, Python, Git, GitHub, Visual Studio, MongoDB, SQL, and Django."
+  },
+  {
+      "id": 8,
+      "info": "Social Links",
+      "description": "LinkedIn: https://www.linkedin.com/in/aryan-dalvi-560964264/, GitHub: https://github.com/Aryan22082003"
+  },
+  {
+      "id": 9,
+      "info": "Personal Projects",
+      "description": "Developed a Chat App using MERN Stack, Vision2Furniture with 3D models, Moonquake Map for NASA, and Satellites Around Earth visualization."
+  }
+]
