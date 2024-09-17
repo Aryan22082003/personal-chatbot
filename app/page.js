@@ -22,7 +22,7 @@ export default function Home() {
       />
       <div className="absolute px-4 w-full h-screen flex flex-col gap-5 items-center bottom-5">
         <h1 className="text-4xl share-tech-regular md:text-5xl font-bold mt-10 text-white ">
-          Aryan Dalvi's Chatbot
+          My Personal Chatbot
         </h1>
         <section className="w-full flex flex-1 flex-col overflow-y-scroll">
           {noMessages ? (
